@@ -1,0 +1,10 @@
+*DS_Store
+.cache/
+.config/
+.ipynb_checkpoints*
+.jupyter*
+.local*
+.npm*
+.wget*
+nohup.out
+Downloads*
