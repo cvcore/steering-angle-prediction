@@ -1,0 +1,38 @@
+[
+    {
+        "run": 1,
+        "epoch": 1,
+        "loss": 4.747576895169914e-05,
+        "accuracy": 0.0,
+        "epoch duration/s": 19.850409269332886,
+        "run duration/s": 19.851440906524658,
+        "Input_size": [
+            50,
+            3,
+            224,
+            224
+        ],
+        "file": "TLearning",
+        "learning_rate": 0.001,
+        "batch_size": 50,
+        "num_workers": 1
+    },
+    {
+        "run": 1,
+        "epoch": 2,
+        "loss": 3.50445180254824e-05,
+        "accuracy": 0.0,
+        "epoch duration/s": 19.881460428237915,
+        "run duration/s": 42.863919734954834,
+        "Input_size": [
+            50,
+            3,
+            224,
+            224
+        ],
+        "file": "TLearning",
+        "learning_rate": 0.001,
+        "batch_size": 50,
+        "num_workers": 1
+    }
+]

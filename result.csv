@@ -1,0 +1,3 @@
+,run,epoch,loss,accuracy,epoch duration/s,run duration/s,Input_size,file,learning_rate,batch_size,num_workers
+0,1,1,4.747576895169914e-05,0.0,19.850409269332886,19.851440906524658,"[50, 3, 224, 224]",TLearning,0.001,50,1
+1,1,2,3.50445180254824e-05,0.0,19.881460428237915,42.863919734954834,"[50, 3, 224, 224]",TLearning,0.001,50,1
